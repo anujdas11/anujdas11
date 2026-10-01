@@ -24,11 +24,10 @@ Welcome to my corner of GitHub! I am focused on building strong programming fund
 
 ---
 
-### 📊 GitHub Pulse
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujdas11&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdas11&layout=compact&theme=default&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anujdas11&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
 </p>
 
 ---
@@ -39,9 +38,4 @@ Welcome to my corner of GitHub! I am focused on building strong programming fund
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujdas11&show_icons=true&theme=radical&hide_border=true" alt="Anuj's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujdas11&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
